@@ -32,7 +32,7 @@ This project explores trends and patterns in the Indian film industry using hist
 - ✅ Top Performers with Tooltip Details
 - ✅ Yearly Trend Line
 - ✅ Visual Story Points (sheets combined into dashboard)
-![Tableau Demo](tableau_demo.gif)
+- ![Tableau Demo](tableau_demo.gif)
 
 ---
 
