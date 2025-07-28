@@ -26,11 +26,13 @@ This project explores trends and patterns in the Indian film industry using hist
 - ✅ Opening Day vs Lifetime (Scatter Plot)
 - ✅ Interactive Filters (Year, Movie)
 - ✅ Clean single-page dashboard layout
+- ![Power BI Demo](powerbi_demo.gif)
 
 ### 🔹 Tableau Dashboard
 - ✅ Top Performers with Tooltip Details
 - ✅ Yearly Trend Line
 - ✅ Visual Story Points (sheets combined into dashboard)
+![Tableau Demo](tableau_demo.gif)
 
 ---
 
